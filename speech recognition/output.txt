@@ -1,0 +1,4 @@
+Did you say hello good afternoon (spoken)
+hello good afternoon (recognized)
+Did you say stop (spoken)
+stop (recognized)
